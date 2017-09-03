@@ -8,4 +8,4 @@ Nombre de usuario: luisjaimessa
 correo: geraa.9718@gmail.com
 
 
-Asignatura: Computadoras y programación 
+Asignatura: Computadoras y Programación 
