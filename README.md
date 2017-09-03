@@ -1,4 +1,4 @@
-# Computadoras-y-Programaci-n-2018
+# Computadoras-y-Programacion-2018
 
 Nombre: Jaimes Santa Ana Luis Gerardo
 
